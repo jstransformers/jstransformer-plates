@@ -1,5 +1,7 @@
 # jstransformer-plates
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-plates.svg)](https://greenkeeper.io/)
+
 [Plates](http://npm.im/plates) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-plates/master.svg)](https://travis-ci.org/jstransformers/jstransformer-plates)
