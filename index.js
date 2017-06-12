@@ -1,6 +1,6 @@
 'use strict'
 
-var plates = require('plates')
+const plates = require('plates')
 
 exports.name = 'plates'
 exports.outputFormat = 'html'
